@@ -3,5 +3,11 @@ git status
 git add .\testing.py
 git status
 git commit  -m "added testing.py"
+git push origin master
+git branch
+git set-url origin https://username:personal access token@link of work reop
+git restore
+git remote -v
+git remtoe add origin https://link of working directory
 
 
